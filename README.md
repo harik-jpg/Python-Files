@@ -1,3 +1,3 @@
 # beginner-repo
 
-This repository includes all the early python projects that I did
+This repository contains all the early python projects that I did
